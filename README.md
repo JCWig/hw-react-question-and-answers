@@ -20,4 +20,4 @@ https://github.com/react-webpack-generators/generator-react-webpack
 Alternatively, if you are comfortable with a different setup, feel free to abandon this setup and submit your own(there is no penalty for this).
 
 # Submission
-Please submit a zipfile and documentation (if it differs from the react-webpack generator) or provide a link to GitHub or other source control site.  
+If you fork this project, please send a link to your fork as your submission. If you decide to use a different setup, please submit a zipfile and documentation. 
